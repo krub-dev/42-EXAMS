@@ -2,7 +2,6 @@
   <img src="https://iili.io/2mYv7ff.png" alt="exams header krub" width="1200" height="auto" style="align: bottom;"> 
 </h1>
 
-# 42-EXAMS
 Repositorio contenedor de las prácticas preparatorias para los exámanes de 42.
 
 🇬🇧 [Read in English](README_EN.md)
